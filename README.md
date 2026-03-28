@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Divyansh Singh, currently pursuing an Integrated M.Tech in Artificial Intelligence (Batch 2025), with a strong interest in software development and problem-solving, and I am focused on continuously improving my skills by building real-world projects and strengthening my understanding of core concepts in programming and AI.
+Hi, I'm Divyansh Singh(25MIM10162), currently pursuing an Integrated M.Tech in Artificial Intelligence (Batch 2025), with a strong interest in software development and problem-solving, and I am focused on continuously improving my skills by building real-world projects and strengthening my understanding of core concepts in programming and AI.
 
 
 ## 🌐 Socials:

@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi, I am Divyansh Singh<br><br>, a student of Integrated M.Tech in Artificial Intelligence, batch of 2025. I am passionate about developing strong problem-solving skills and aspire to build real-world projects with practical applications.
+Hi, I am Divyansh Singh<br><br> A student of Integrated M.Tech in Artificial Intelligence, batch of 2025. I am passionate about developing strong problem-solving skills and aspire to build real-world projects with practical applications.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divyyansh_063) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/divyansh-singh-10648a339) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyanshsingh10thb18@gmail.com) 

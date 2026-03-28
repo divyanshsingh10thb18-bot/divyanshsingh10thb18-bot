@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 Hi, I'm Divyansh Singh 👋<br><br>I’m a passionate Computer Science student and aspiring software engineer, currently focused on building a strong foundation in programming<br>
 

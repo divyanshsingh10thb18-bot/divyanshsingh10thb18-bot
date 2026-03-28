@@ -1,13 +1,14 @@
 
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Divyansh Singh</h1>
 
-<h3 align="center">
-Integrated M.Tech in Artificial Intelligence (Batch 2025)
-</h3>
+<p align="center">
+  <b>Integrated M.Tech in Artificial Intelligence</b> <br>
+  🎓 Batch of 2025
+</p>
 
 <p align="center">
-I am focused on strengthening my problem-solving skills and building real-world projects with practical applications.
+  ⚡ Focus: Strong Problem Solving <br>
+  🚀 Building Real-World Projects
 </p>
 
 # 💻 Tech Stack:
